@@ -1,4 +1,4 @@
-var endpoint = "https://www.jsonstore.io/9ee97bc31a87123607170922a7eb38d3b978366d4ea848f617a3fede869dc4a8";
+var endpoint = "https://www.jsonstore.io/8ba4fd855086288421f770482e372ccb5a05d906269a34da5884f39eed0418a1";
 
 function geturl(){
     var url = document.getElementById("urlinput").value;
@@ -55,3 +55,4 @@ if (window.location.hash != "") {
 
     });
 }
+
